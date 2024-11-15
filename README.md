@@ -4,6 +4,6 @@ an api for my redbox utils app, currently has api routes for getting info on a b
 
 ## Routes
 
--   /lookup/product/id/<id>
--   /lookup/product/barcode/<barcode>
--   /lookup/barcode/<barcode>
+-   /lookup/product/id/:id
+-   /lookup/product/barcode/:barcode
+-   /lookup/barcode/:barcode
